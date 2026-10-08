@@ -1,0 +1,2 @@
+# Internet_Trust_Intelligence_Platform
+Açıklanabilir Güven ve Risk Değerlendirme Platformu
